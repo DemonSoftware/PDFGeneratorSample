@@ -1,0 +1,9 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+
+# Common node modules locations
+/node_modules
+/wwwroot/node_modules
