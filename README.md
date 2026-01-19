@@ -16,5 +16,5 @@
 ## Requirements
 
 - .NET 6.0 or newer
-- PDF generation library (e.g., [PdfSharp](https://github.com/empira/PDFsharp) or [iText7](https://github.com/itext/itext7))
+- PDF generation library QuestPDF (https://www.questpdf.com/)
 - Visual Studio or VS Code recommended
